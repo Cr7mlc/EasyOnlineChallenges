@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31441fcf-8550-4ec5-bf02-37f81ab95da5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDYu56xXiLbnPkfImjcZ6qW9wK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.StringInPart">
+    <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindOdd" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindingLostMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingLostMissingNumber" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Largest5Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Largest5Digits" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiples3_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiples3_5" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringInPart" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringInPart" />
+        <item itemvalue="Application.Multiples3_5" />
+        <item itemvalue="Application.Largest5Digits" />
+        <item itemvalue="Application.FindOdd" />
+        <item itemvalue="Application.FindingLostMissingNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31441fcf-8550-4ec5-bf02-37f81ab95da5" name="Default Changelist" comment="" />
+      <created>1588168350734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588168350734</updated>
+      <workItem from="1588168355197" duration="4316000" />
+      <workItem from="1588250294394" duration="1402000" />
+      <workItem from="1588334207580" duration="16859000" />
+      <workItem from="1588424574665" duration="7456000" />
+      <workItem from="1588514469468" duration="9870000" />
+      <workItem from="1588599757869" duration="6815000" />
+      <workItem from="1588689134651" duration="5222000" />
+      <workItem from="1588772891236" duration="875000" />
+      <workItem from="1588797287919" duration="4691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588799228895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588799228895" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1588804403656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588772885433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588772885432" />
+    <state x="209" y="33" key="new project wizard" timestamp="1588773775875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588773775875" />
+    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588803525327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588803525327" />
+  </component>
+</project>
