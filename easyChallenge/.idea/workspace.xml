@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31441fcf-8550-4ec5-bf02-37f81ab95da5" name="Default Changelist" comment="" />
+    <list default="true" id="31441fcf-8550-4ec5-bf02-37f81ab95da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RowSumOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bDYu56xXiLbnPkfImjcZ6qW9wK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,19 +30,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringInPart">
+  <component name="RunManager" selected="Application.RowSumOddNumbers">
     <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindOdd" />
-      <module name="easyChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindingLostMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingLostMissingNumber" />
       <module name="easyChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RowSumOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RowSumOddNumbers" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringInPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringInPart" />
       <module name="easyChallenge" />
@@ -63,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RowSumOddNumbers" />
         <item itemvalue="Application.StringInPart" />
         <item itemvalue="Application.Multiples3_5" />
         <item itemvalue="Application.Largest5Digits" />
         <item itemvalue="Application.FindOdd" />
-        <item itemvalue="Application.FindingLostMissingNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +100,7 @@
       <workItem from="1588689134651" duration="5222000" />
       <workItem from="1588772891236" duration="875000" />
       <workItem from="1588797287919" duration="4691000" />
+      <workItem from="1588853258493" duration="1532000" />
     </task>
     <servers />
   </component>
@@ -101,38 +112,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588799228895" />
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1588804403656">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1588855589845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1588804403656">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588855589845" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1588855589844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1588804403656">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588855589844" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1588855589844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1588804403656">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588855589844" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1588855589845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1588804403656">
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588855589845" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1588855296221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1588804403656">
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588855296221" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1588855296221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1588804403656">
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588855296221" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1588855296221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
-    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1588804403656">
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588855296221" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1588855296221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588804403656" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588855296221" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588772885433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -141,9 +152,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588773775875" />
-    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588803525327">
+    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588855438762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588803525327" />
+    <state x="341" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588855438762" />
   </component>
 </project>
