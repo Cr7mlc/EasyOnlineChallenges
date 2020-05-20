@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31441fcf-8550-4ec5-bf02-37f81ab95da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RowSumOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bDYu56xXiLbnPkfImjcZ6qW9wK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,14 +36,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.RowSumOddNumbers">
-    <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindOdd" />
-      <module name="easyChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProductExceptSelf">
     <configuration name="Largest5Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Largest5Digits" />
       <module name="easyChallenge" />
@@ -52,6 +46,13 @@
     </configuration>
     <configuration name="Multiples3_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multiples3_5" />
+      <module name="easyChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductExceptSelf" />
       <module name="easyChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.RowSumOddNumbers" />
         <item itemvalue="Application.StringInPart" />
         <item itemvalue="Application.Multiples3_5" />
         <item itemvalue="Application.Largest5Digits" />
-        <item itemvalue="Application.FindOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +102,7 @@
       <workItem from="1588772891236" duration="875000" />
       <workItem from="1588797287919" duration="4691000" />
       <workItem from="1588853258493" duration="1714000" />
+      <workItem from="1590008522501" duration="1412000" />
     </task>
     <servers />
   </component>
@@ -112,22 +114,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588799228895" />
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1588855769737">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1590010139808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588855769737" />
-    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1588855769736">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590010139808" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1590010139808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588855769736" />
-    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1588855769735">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590010139808" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1590010139808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588855769735" />
-    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1588855769736">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590010139808" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1590010139808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588855769736" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590010139808" />
     <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1588855769741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
