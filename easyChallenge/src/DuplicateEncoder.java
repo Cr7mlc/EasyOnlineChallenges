@@ -1,6 +1,7 @@
 import java.util.HashSet;
 
 public class DuplicateEncoder {
+
    public static String encode(String word){
 
 //        HashSet<Character> duplicate = new HashSet<>();
@@ -20,8 +21,6 @@ public class DuplicateEncoder {
 //                word += "(";
 //
 //        }
-
-
        word = word.toLowerCase();
        String result = "";
        for (int i = 0; i < word.length(); i++) {
